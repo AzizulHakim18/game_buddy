@@ -6,7 +6,6 @@ import Home from './Pages/Home/Home'
 import Header from './Components/Header/Header'
 import { useEffect, useState } from 'react'
 import { ThemeContext } from './Context/ThemeContext'
-import SpacemanCanvas from './Components/SpaceMan/SpaceMan'
 import Cylinder3d from './Components/Cylinder3d/Cylinder3d'
 import Heading from './Pages/Heading/Heading'
 
