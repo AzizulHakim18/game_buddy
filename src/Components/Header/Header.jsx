@@ -15,7 +15,7 @@ const Header = () => {
 
     return (
         <div>
-            <div className="navbar bg-slate-200 ">
+            <div className="navbar bg-slate-200 fixed z-10">
                 <div className="flex-1">
                     <a className="text-xl md:text-3xl lg:text-5xl text-rose-600 font-bold jersey">Game Buddy</a>
                 </div>

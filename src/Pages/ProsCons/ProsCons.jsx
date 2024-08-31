@@ -64,7 +64,8 @@ const ProsCons = () => {
                         </div>
                     </div>
                 </div>
-                <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+                <button className="flex mx-auto mt-16 text-white btn bg-cyan-400 font-bold border-cyan-400
+                         hover:bg-rose-500 hover:border-rose-500 shadow-2xl shadow-cyan-500">Button</button>
             </div>
         </section>
     );

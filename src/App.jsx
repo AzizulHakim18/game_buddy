@@ -7,7 +7,6 @@ import Header from './Components/Header/Header'
 import { useEffect, useState } from 'react'
 import { ThemeContext } from './Context/ThemeContext'
 import Cylinder3d from './Components/Cylinder3d/Cylinder3d'
-import Heading from './Pages/Heading/Heading'
 
 function App() {
 
